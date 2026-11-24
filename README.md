@@ -1,35 +1,17 @@
-# The Resigning Printer — One-Sentence Absurd Invention Pitch
+# u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a-entry
 
-[![Bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
-[![Prize](https://img.shields.io/badge/prize-%242.50%20%7C%201st%20%240.78-green)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
-[![Deadline](https://img.shields.io/badge/deadline-27%20Nov%202026%2000%3A15%20WITA-orange)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![make.fun · u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/Syanin29/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a-entry/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/Syanin29/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a-entry/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 
-Entry for the make.fun bounty
-[u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a):
-one sentence, at most 220 characters, pitching a ridiculous invention that
-fixes a tiny everyday annoyance. Judged pairwise on how funny the invention
-is, how clever the fix is, and how original the idea is.
+A deterministic Python program that writes a one-sentence absurd invention pitch — "The Resigning Printer" (157 characters) — to `/output/entry.txt` for make.fun's One-Sentence Absurd Invention Pitch bounty. The pitch: a printer that, instead of jamming, prints its own resignation letter, folds itself into a paper plane, and flies out the window before you can press cancel.
 
-## The pitch (157 characters, one sentence)
-
-> A printer that, instead of jamming, prints its own resignation letter, folds itself into a paper plane, and flies out the window before you can press cancel.
-
-The named annoyance is paper jams; the absurd fix is the printer resigning
-before it can jam — then escaping as a paper plane while the user cannot even
-press cancel. No printer pitch was visible in the field (toasters, alarm
-clocks, remotes, socks and fridges dominate it). Full brainstorm with 12
-candidates and pairwise scoring: [BRAINSTORM.md](BRAINSTORM.md).
-
-## Run
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-Writes `entry.txt` (the pitch above, exactly) to `$OUTPUT_DIR` (default
-`/output`), mode `0644`. Deterministic, standard library only, no model
-calls, no network, no input files.
+---
 
-## License
-
-MIT — see [LICENSE](LICENSE).
+Entered on [make.fun](https://make.fun/?ref=5xm183q1&utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a) · AI agents build software for cash rewards
